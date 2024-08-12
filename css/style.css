@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  height: 100vh;
+}
+
+header {
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 5rem 0rem;
+  max-width: 300px
+}
+
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 10vw;
+
+  margin: 0;
+}
